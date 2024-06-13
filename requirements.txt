@@ -1,0 +1,5 @@
+flask
+gunicorn
+requests
+pypi-json
+chardet
